@@ -7,3 +7,5 @@ resource "aws_instance" "example" {
     instance_type = "t2.micro"
 }
 extra line
+second extra line
+
